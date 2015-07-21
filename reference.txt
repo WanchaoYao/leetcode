@@ -1,2 +1,11 @@
 Problem 4
 https://leetcode.com/discuss/15790/share-my-o-log-min-m-n-solution-with-explanation
+
+Problem 5
+https://leetcode.com/discuss/9948/a-very-brief-o-n-time-o-1-space-solution-ac
+https://leetcode.com/discuss/32204/simple-c-solution-8ms-13-lines
+http://www.felix021.com/blog/read.php?2040
+http://taop.marchtea.com/01.05.html
+http://chuansong.me/n/679668
+http://blog.csdn.net/hopeztm/article/details/7932245
+http://www.cnblogs.com/tenosdoit/p/3675788.html
